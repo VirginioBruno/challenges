@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WisB+vCm79PX9O81Q88r8qrFGmMl4sM8b39/vaJn7i4c19a1qu8YGaMvozVndeLNUAgSAt+YAP7rA4C5KR9yyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bruno Virginio\\source\\repos\\Challenges\\Challenges\\Challenges.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruno Virginio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}

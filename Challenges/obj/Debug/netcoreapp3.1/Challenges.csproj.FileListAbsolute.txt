@@ -1,0 +1,14 @@
+C:\Users\Bruno Virginio\source\repos\Challenges\Challenges\bin\Debug\netcoreapp3.1\Challenges.exe
+C:\Users\Bruno Virginio\source\repos\Challenges\Challenges\bin\Debug\netcoreapp3.1\Challenges.deps.json
+C:\Users\Bruno Virginio\source\repos\Challenges\Challenges\bin\Debug\netcoreapp3.1\Challenges.runtimeconfig.json
+C:\Users\Bruno Virginio\source\repos\Challenges\Challenges\bin\Debug\netcoreapp3.1\Challenges.runtimeconfig.dev.json
+C:\Users\Bruno Virginio\source\repos\Challenges\Challenges\bin\Debug\netcoreapp3.1\Challenges.dll
+C:\Users\Bruno Virginio\source\repos\Challenges\Challenges\bin\Debug\netcoreapp3.1\Challenges.pdb
+C:\Users\Bruno Virginio\source\repos\Challenges\Challenges\obj\Debug\netcoreapp3.1\Challenges.AssemblyInfoInputs.cache
+C:\Users\Bruno Virginio\source\repos\Challenges\Challenges\obj\Debug\netcoreapp3.1\Challenges.AssemblyInfo.cs
+C:\Users\Bruno Virginio\source\repos\Challenges\Challenges\obj\Debug\netcoreapp3.1\Challenges.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Virginio\source\repos\Challenges\Challenges\obj\Debug\netcoreapp3.1\Challenges.dll
+C:\Users\Bruno Virginio\source\repos\Challenges\Challenges\obj\Debug\netcoreapp3.1\Challenges.pdb
+C:\Users\Bruno Virginio\source\repos\Challenges\Challenges\obj\Debug\netcoreapp3.1\Challenges.genruntimeconfig.cache
+C:\Users\Bruno Virginio\source\repos\Challenges\Challenges\obj\Debug\netcoreapp3.1\Challenges.csproj.AssemblyReference.cache
+C:\Users\Bruno Virginio\source\repos\Challenges\Challenges\obj\Debug\netcoreapp3.1\Challenges.GeneratedMSBuildEditorConfig.editorconfig
